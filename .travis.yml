@@ -4,7 +4,7 @@ python:
 - '2.7'
 addons:
   apt:
-    packages:
+    packages:
     - docker-ce
 branches:
   only:
