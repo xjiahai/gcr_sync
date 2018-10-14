@@ -8,3 +8,6 @@ completion_version: 1.8.9
 endpoints:
   https://api.travis-ci.org/:
     access_token: 1xWF99r40vgQ3dp2z7ZZcA
+repos:
+  xjiahai/gcr_sync:
+    endpoint: https://api.travis-ci.org/
